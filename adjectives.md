@@ -1,0 +1,3 @@
+enthousiastic
+committed
+determined
