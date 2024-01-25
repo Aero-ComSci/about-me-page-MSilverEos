@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.center {
+  display: block;
+  margin: auto;
+text-align: center;    
+}
+
+.indent {
+  text-indent: 50px;
+}
